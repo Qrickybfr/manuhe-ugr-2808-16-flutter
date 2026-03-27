@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### Demo
+![Registration Lab Running](../screenshots/REgisterlab%20Screenshots/Registrationlab%20running.png)
+![Registration Lab Success](../screenshots/REgisterlab%20Screenshots/Registration%20lab%20success.png)
+![Registration Lab Error](../screenshots/REgisterlab%20Screenshots/registration%20lab%20error.png)
+
+### Widget Tree
+![Registration Lab Widget Tree](../screenshots/REgisterlab%20Screenshots/Register%20Widget%20tree.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

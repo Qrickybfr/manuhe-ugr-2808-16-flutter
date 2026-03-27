@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### Demo
+![Catalog Lab Demo](../screenshots/Catalog%20Lab%20screenshots/cataloglab_running.png)
+![Catalog Lab Demo 2](../screenshots/Catalog%20Lab%20screenshots/cataloglab_running%20(2).png)
+
+### Widget Tree
+![Catalog Lab Widget Tree](../screenshots/Catalog%20Lab%20screenshots/cataloglab%20widget%20tree.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

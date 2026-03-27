@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### Demo
+![Profile Demo](../screenshots/Profile%20Screenshots/profile_running.png)
+
+### Widget Tree
+![Profile Widget Tree](../screenshots/Profile%20Screenshots/profile_widget.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

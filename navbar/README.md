@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### Demo
+![Navbar Home](../screenshots/Navbar%20Screenshots/navbar_home%20running.png)
+![Navbar Favorites](../screenshots/Navbar%20Screenshots/navbar_fav%20running.png)
+![Navbar Details](../screenshots/Navbar%20Screenshots/navbar_details.png)
+![Navbar Profile](../screenshots/Navbar%20Screenshots/navbar_profile.png)
+
+### Widget Tree
+![Navbar Widget Tree](../screenshots/Navbar%20Screenshots/navbar_widgettree.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
