@@ -8,7 +8,6 @@ You can see the screenshots for these projects in the following locations:
 
 - **Local Screenshots Folder:** [Screenshots/](Screenshots/) (organized by demo number)
 - **Main README File:** [README.md](../README.md#L42)
-- **Shared Screenshots Directory:** [screenshots/GO ROuting Screenshots/](../screenshots/GO%20ROuting%20Screenshots/)
 
 Each project subdirectory also has its own README with specific layout details and widget tree diagrams.
 
