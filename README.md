@@ -35,4 +35,12 @@ These are the images diplayed accordingly.
 - **Widget Tree:** 
   - ![Registration Widget Tree](screenshots/REgisterlab%20Screenshots/Register%20Widget%20tree.png)
 
+## 5. Go Routing
+- **Demo:**
+  - ![Go Routing Home](screenshots/GO%20ROuting%20Screenshots/Go_routing_home.png)
+  - ![Go Routing Details](screenshots/GO%20ROuting%20Screenshots/Go_routing_details.png)
+- **Widget Tree:**
+  - ![Go Route Home Widget Tree](screenshots/GO%20ROuting%20Screenshots/goroute_HomescreenWidgettree.png)
+  - ![Go Route Detail Widget Tree](screenshots/GO%20ROuting%20Screenshots/go_routing_DetailScreenwidgettree.png)
+
 
