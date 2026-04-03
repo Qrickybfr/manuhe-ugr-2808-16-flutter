@@ -1,0 +1,72 @@
+# Flutter/Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Compiled archives and binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.log
+*.svg
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Android related
+**/android/**/generated/
+**/android/app/src/main/res/drawable-*/
+**/android/app/src/main/res/mipmap-*/
+*.keystore
+*.jks
+.gradle/
+local.properties
+
+# iOS related
+**/ios/.generated/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/DerivedData/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.[mh]
+Packages
+Package.resolved
+
+# macOS related
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+
+# Linux related
+**/linux/flutter/ephemeral/
+
+# Windows related
+**/windows/flutter/ephemeral/
+**/windows/CMakeCache.txt
+**/windows/CMakeFiles/
+**/windows/CMakeScripts/
+**/windows/Runner.vcxproj
+**/windows/Runner.sln
+**/windows/Win32/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+.DS_Store
