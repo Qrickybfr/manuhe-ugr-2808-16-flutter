@@ -38,27 +38,27 @@ These are the images diplayed accordingly.
 ## 5. Go Routing Demo
 ### Demo 01
 - **Screenshots:**
-  - ![Home](Go%20Routing%20Demo/Screenshots/Demo01%20screenshots/Go_routing_home.png)
-  - ![Details](Go%20Routing%20Demo/Screenshots/Demo01%20screenshots/Go_routing_details.png)
+  - ![Home](screenshots/Demo01%20screenshots/Go_routing_home.png)
+  - ![Details](screenshots/Demo01%20screenshots/Go_routing_details.png)
 - **Widget Tree:**
-  - ![Home Widget Tree](Go%20Routing%20Demo/Screenshots/Demo01%20screenshots/goroute_HomescreenWidgettree.png)
-  - ![Details Widget Tree](Go%20Routing%20Demo/Screenshots/Demo01%20screenshots/go_routing_DetailScreenwidgettree.png)
+  - ![Home Widget Tree](screenshots/Demo01%20screenshots/goroute_HomescreenWidgettree.png)
+  - ![Details Widget Tree](screenshots/Demo01%20screenshots/go_routing_DetailScreenwidgettree.png)
 
 ### Demo 02
 - **Screenshots:**
-  - ![Home Router](Go%20Routing%20Demo/Screenshots/Demo02%20screenshots/demo2-Homerouter.png)
-  - ![Details Page](Go%20Routing%20Demo/Screenshots/Demo02%20screenshots/Demo02-detailsPage.png)
+  - ![Home Router](screenshots/Demo02%20screenshots/demo2-Homerouter.png)
+  - ![Details Page](screenshots/Demo02%20screenshots/Demo02-detailsPage.png)
 - **Widget Tree:**
-  - ![Home Widget Tree](Go%20Routing%20Demo/Screenshots/Demo02%20screenshots/demo2%20home%20widget%20tree.png)
-  - ![Details Widget Tree](Go%20Routing%20Demo/Screenshots/Demo02%20screenshots/Demo02%20Details%20Widget%20tree.png)
+  - ![Home Widget Tree](screenshots/Demo02%20screenshots/demo2%20home%20widget%20tree.png)
+  - ![Details Widget Tree](screenshots/Demo02%20screenshots/Demo02%20Details%20Widget%20tree.png)
 
 ### Demo 03
 - **Screenshots:**
-  - ![Home Screen](Go%20Routing%20Demo/Screenshots/Demo03%20screenshots/demo03%20homescreen.png)
-  - ![Details Screen](Go%20Routing%20Demo/Screenshots/Demo03%20screenshots/Demo03%20details%20Screen.png)
+  - ![Home Screen](screenshots/Demo03%20screenshots/demo03%20homescreen.png)
+  - ![Details Screen](screenshots/Demo03%20screenshots/Demo03%20details%20Screen.png)
 - **Widget Tree:**
-  - ![Home Widget Tree](Go%20Routing%20Demo/Screenshots/Demo03%20screenshots/demo3%20home%20widgettree.png)
-  - ![Details Widget Tree](Go%20Routing%20Demo/Screenshots/Demo03%20screenshots/demo03detailwidgettree.png)
+  - ![Home Widget Tree](screenshots/Demo03%20screenshots/demo3%20home%20widgettree.png)
+  - ![Details Widget Tree](screenshots/Demo03%20screenshots/demo03detailwidgettree.png)
 
 
 
