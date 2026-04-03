@@ -1,9 +1,15 @@
+# Go Routing Demo
+
+This folder contains multiple Flutter projects demonstrating different aspects of routing using the `go_router` package.
+
 ## Screenshots
 
-You can find the screenshots for the exercises in the following locations:
+You can see the screenshots for these projects in the following locations:
 
-- **Global Screenshots:** [Screenshots/](Screenshots/) (organized by demo number)
-- **Shared Screenshots:** [screenshots/GO ROuting Screenshots/](../screenshots/GO%20ROuting%20Screenshots/)
+- **Local Screenshots Folder:** [Screenshots/](Screenshots/) (organized by demo number)
+- **Main README File:** [README.md](../README.md#L42)
+- **Shared Screenshots Directory:** [screenshots/GO ROuting Screenshots/](../screenshots/GO%20ROuting%20Screenshots/)
 
-Each project subdirectory also has its own layout image and widget tree diagram screenshots.
+Each project subdirectory also has its own README with specific layout details and widget tree diagrams.
+
 
