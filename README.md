@@ -50,7 +50,7 @@ These are the images diplayed accordingly.
   - ![Details Page](screenshots/Demo02%20screenshots/Demo02-detailsPage.png)
 - **Widget Tree:**
   - ![Home Widget Tree](screenshots/Demo02%20screenshots/demo2%20home%20widget%20tree.png)
-  - ![Details Widget Tree](screenshots/Demo02%20screenshots/Demo02%20Details%20Widget%20tree.png)
+  - ![Details Widget Tree](screenshots/Demo02%20screenshots/Demo02Detailswidgettree.png)
 
 ### Demo 03
 - **Screenshots:**
@@ -58,7 +58,7 @@ These are the images diplayed accordingly.
   - ![Details Screen](screenshots/Demo03%20screenshots/Demo03%20details%20Screen.png)
 - **Widget Tree:**
   - ![Home Widget Tree](screenshots/Demo03%20screenshots/demo3%20home%20widgettree.png)
-  - ![Details Widget Tree](screenshots/Demo03%20screenshots/demo03detailwidgettree.png)
+  - ![Details Widget Tree](screenshots/Demo03%20screenshots/demo03_detailwidgettree.png)
 
 
 
